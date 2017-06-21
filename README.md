@@ -1,0 +1,2 @@
+# gdiGitHub
+GDI class
